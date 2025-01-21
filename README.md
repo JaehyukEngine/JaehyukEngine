@@ -11,3 +11,5 @@
 JaehyukEngine/JaehyukEngine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[은행이탈예측 Kaggle dataset](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN07-2nd-1Team)
