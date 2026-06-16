@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @JaehyukEngine
-- 👀 I’m interested in ML/DL
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on NLP
-  <!---
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  --->
+- 👋 Hi, I’m @JaehyukEngine, software engineer.
 
 <!---
 JaehyukEngine/JaehyukEngine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
